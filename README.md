@@ -28,4 +28,4 @@ The system operates on three distinct layers:
 * **OS:** Ubuntu 24.04 LTS (Hardened Kernel)
 
 ---
-*Built by [Nevin Shine](https://www.linkedin.com/in/nevin-shine-b403b932b/) - Junior Researcher, Systems Security.*
+*Built by [Nevin Shine](https://www.linkedin.com/in/nevin-shine-b403b932b/) - Independent Researcher, Systems Security.*
