@@ -2,7 +2,7 @@
 
 > **Status:** Active Research (v0.1)
 > **Focus:** Linux Kernel, ptrace, Syscall Analysis, MLSecOps
-> **Maintainer:** Nevin Shine
+> **Maintainer:** Nevin Shine 
 
 ## 📜 Overview
 **Sentinel Sandbox** is a lightweight, custom-built runtime analysis environment designed to detect malicious behavior in Linux binaries. Unlike traditional sandboxes that rely on heavy virtualization (Cuckoo/VMware), Sentinel uses the Linux `ptrace` API to intercept system calls in real-time with minimal overhead.
