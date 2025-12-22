@@ -1,2 +1,16 @@
-data/
-data/
+# Runtime logs
+sentinel_log.csv
+sentinel_log.tmp
+
+# Binaries
+sentinel
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor junk
+.vscode/
+
+# Datasets (download separately)
+data/unsw/*.csv
